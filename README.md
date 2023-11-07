@@ -3,6 +3,8 @@ Provided two datasets of a finance company trying to figure out the attributes o
 
 The first file is the cleaning process of the datasets using python and merging the datasets for the model. Some parts of the analysis were also performed in the jupyter file.
 
+
 The second file is a presentation showcasing all the insights recieved from the EDA process on Excel as well as Python. The access to the Excel file where all the analysis was done is hyperlinked in the PPT.
+
 
 Finally, the Machine Learning Model uses a Random Forest Regressor to predict the target(0 or 1) applicant, 1 representing a defaulter and 0 representing a repayor. The model has a Mean Absolute Error of only 0.02, achieving 98 accuracy on Validation Data.
